@@ -1,2 +1,10 @@
 # hosted link::https://amit848211.github.io/youtubeclone/
 # repo link::https://github.com/Amit848211/youtubeclone
+![Screenshot 2023-08-13 112305](https://github.com/Amit848211/youtubeclone/assets/111532901/e9354052-1247-4137-8a08-73d7c708654a)
+![Screenshot 2023-08-13 112334](https://github.com/Amit848211/youtubeclone/assets/111532901/ed9ba8ab-88be-4ee8-8720-dc4ae2c23a7b)
+![Screenshot 2023-08-13 112408](https://github.com/Amit848211/youtubeclone/assets/111532901/adafc62c-79a4-484e-9598-1122beb56dae)
+![Screenshot 2023-08-13 112522](https://github.com/Amit848211/youtubeclone/assets/111532901/cf271a21-e422-41df-b664-f3a0fbcac32f)
+![Screenshot 2023-08-13 112449](https://github.com/Amit848211/youtubeclone/assets/111532901/d73c4449-c7d9-4ed1-9088-bdcfbc19474e)
+![Screenshot 2023-08-13 112548](https://github.com/Amit848211/youtubeclone/assets/111532901/f6989d72-43c9-48f5-a0da-c98f5b5fe0f4)
+![Screenshot 2023-08-13 112639](https://github.com/Amit848211/youtubeclone/assets/111532901/7bf956bc-19d4-48a9-b513-ff18c5660f69)
+![Screenshot 2023-08-13 112707](https://github.com/Amit848211/youtubeclone/assets/111532901/4d451d55-3616-4f1c-8faa-97715199d74e)
